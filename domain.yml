@@ -14,6 +14,8 @@ intents:
 - news
 - thanks
 - bye
+- rules
+- not_for_rules
 
 actions:
 - action_restart
@@ -25,6 +27,8 @@ actions:
 - utter_ofc
 - utter_bye
 - utter_default
+- utter_rules
+- utter_not_rules
 
 templates:
   utter_greet:
@@ -50,4 +54,10 @@ templates:
     - text: I am not sure what you're aiming for
     - text: I am sorry but I am not able to get you.
     - text: My appologies but I am not able to get you
+  utter_rules:
+    - text: One ring to rule them all
+    - text: its the rules that matters
+  utter_not_rules:
+    - text: No rules, Hell yeah!
+    - text: Rules suck
 

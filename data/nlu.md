@@ -1,3 +1,14 @@
+## intent:rules
+- What is in the rules
+- Can you tell me what is there in the rules
+- Please let me know the rules
+
+## intent:not_for_rules
+- What not to consider in the rules
+- What not to consider for the rules
+- What is there in the rules that i need not consider
+- tell me the rules that I dont want to consider
+
 ## intent:greet
 - hey
 - hello

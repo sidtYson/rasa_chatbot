@@ -25,3 +25,11 @@
 ## bye path 1
 * bye
 - utter_bye
+
+## rules
+* rules
+- utter_rules
+
+## not rules
+* not_for_rules
+- utter_not_rules
